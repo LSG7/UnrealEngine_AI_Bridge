@@ -10,7 +10,10 @@
 - Solution: This project enables LLMs to understand and manipulate unreal editor and assets.
 
 ## Install
-- [Install doc](docs/install.md)
+- [Install doc](docs/install/install.md)
 
 ## How to Use
 - [how to use doc](docs/howtouse/howtouse.md)
+
+## Youtube Example
+[Youtube](https://www.youtube.com/@creatorsoul804/videos)
