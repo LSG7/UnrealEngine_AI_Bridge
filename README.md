@@ -11,8 +11,13 @@ Before opening
 
 # Why is this necessary?
 
-- Problem: AI(LLM) doesn't understand unreal project and editor.
-- Solution: This project enables LLMs to understand and manipulate unreal editor and assets.
+- Problem:  
+  AI(LLM) doesn't understand unreal project and editor.  
+  Because Unreal Assets are not general 'text'.  
+- Solution:
+  AI(LLM) already has knowledge of unreal.
+  This project creates a communication channel between AI(LLM) and Unreal Engine.
+  
 
 ## Install
 - [Install doc](docs/install/install.md)
