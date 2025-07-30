@@ -6,9 +6,11 @@
 Before opening
 
 # What is this?
-- AI(LLM, gpt,claude etc) can understand and manipulate unreal project using this tool.  
-  It's the Unreal version of what's known as Vibe Coding.  
-  You can vibe UE-Editing.  
+- You can vibe UE editing.
+- It's the Unreal version of what's known as Vibe Coding. 
+- AI(LLM, gpt,claude etc) can understand and manipulate unreal project using this tool.
+ 
+  
 
 # Why is this necessary?
 
