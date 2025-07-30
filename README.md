@@ -14,7 +14,7 @@ Before opening
 - Problem:  
   AI(LLM) doesn't understand unreal project and editor.  
   Because Unreal Assets are not general 'text'.  
-- Solution:
+- Solution:  
   AI(LLM) already has knowledge of unreal.  
   This project creates a communication channel between AI(LLM) and Unreal Engine.
   
