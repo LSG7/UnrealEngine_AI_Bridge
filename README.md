@@ -18,5 +18,5 @@
 - [Youtube](https://www.youtube.com/@creatorsoul804/videos)
 
 ## Your Voice  
-Please leave your comments on the github issue. [here](https://github.com/LSG7/UnrealEngine_AI_Bridge/issues)
+Please leave your comments on the github issue. [here](https://github.com/LSG7/UnrealEngine_AI_Bridge/issues)  
 We can make isekai
