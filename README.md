@@ -3,8 +3,7 @@
 
 ## What is this?
 - Problem:  
-  AI(LLM) doesn't understand unreal project and editor.  
-  We need AI to make game world.  
+  We need AI to make game world but AI(LLM) doesn't understand unreal project and editor.  
 - Solution:  
   'Door to isekai' UnrealEngine Plugin allows AIs(gpt,claude,gemini) to control the Unreal Engine editor.  
   It's the Unreal version of what's known as Vibe Coding.  
