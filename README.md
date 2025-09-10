@@ -1,6 +1,8 @@
 ![](docs/images/Door_0.png)
 # Door to isekai Project
 
+***Notice: Just before launch***
+
 ## What is this?
 - Problem:  
   We need AI to make game world but AI(LLM) doesn't understand unreal project and editor.  
