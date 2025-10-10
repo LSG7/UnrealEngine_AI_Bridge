@@ -1,4 +1,4 @@
-## You need to install two things.  
+## We need to install two things.  
 
 ### 1. Download Mobile App  
 'Door to isekai' operates solely on advertising revenue.   
