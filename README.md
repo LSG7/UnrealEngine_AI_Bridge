@@ -19,7 +19,7 @@ Working on finishing now.
  3. [how to use doc](docs/howtouse/howtouse.md)
 
 ## Youtube Example
-- [Youtube](https://www.youtube.com/@creatorsoul804/videos)
+- [Youtube List](https://github.com/LSG7/UnrealEngine_AI_Bridge/blob/main/docs/youtube/youtube.md)
 
 ## Your Voice  
 Please leave your comments on the github issue. [here](https://github.com/LSG7/UnrealEngine_AI_Bridge/issues)  
