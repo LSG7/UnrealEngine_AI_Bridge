@@ -1,9 +1,9 @@
 ![](docs/images/Door_0.png)
 # Door to isekai Project
 
-***Notice: Just before launch***
-I'm releasing it the third week of October.
-Working on finishing now.
+***Notice: Just before launch***  
+I'm releasing it the third week of October.  
+Working on finishing now.  
 
 ## What is this?
 - Problem:  
