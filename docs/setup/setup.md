@@ -12,3 +12,5 @@ Please select the AI ​​you use.
    - [Gemini Web Browser]()
    - [Gemini CLI]()
    - 
+4. others
+   - [others]()
