@@ -1,21 +1,29 @@
 ## We need to tell AI how to use our plugin.
 
-* Web Browsers Not recommended. Asynchronous response not possible.  
-Failure to notify completion of long-running tasks.  
 
-Please select the AI ​​you use.
-1. OpenAI (gpt)
-   - [ChatGPT Web Browser]()  Not recommended
-   - [Codex(OpenAI CLI)]()  
-2. Anthropics (claude)
-   - [Claode.ai Web Browser]()  Not recommended
-   - [Claude Code CLI]()
-   - [Claude Desktop]()
-3. Google (gemini)
-   - [Gemini Web Browser]()  Not recommended
-   - [Gemini CLI]()
+Please select the AI ​​you use.  
+- Door to Isekai is free, with ads only. The paid options below reflect each company's policy. It's not ours.
+- So I highly recommend gemini cli.
+
+1. Google (gemini)
+   |ai|free?|note|
+   |---|---|---|
+   |[Gemini Web Browser]()|||
+   |[Gemini CLI]() recommended|Yes||
+2. OpenAI (gpt)
+   |ai|free?|note|
+   |---|---|---|  
+   |[ChatGPT Web Browser]()|No, Team account only||
+   [Codex(OpenAI CLI)]()|?|?|3. Anthropics (claude)
+3. Claude
+   |ai|free?|note|
+   |---|---|---|  
+   |[Claode.ai Web Browser]()||
+   |[Claude Code CLI]()|No||
+   |[Claude Desktop]()|||
+
    - 
-4. others
+5. others
    - [others]()
 
 -----
