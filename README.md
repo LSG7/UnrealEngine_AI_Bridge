@@ -26,4 +26,7 @@ Please leave your comments on the github issue. [here](https://github.com/LSG7/U
 We can make isekai
 
 ## Root Project  
-- [NorthStar](https://github.com/LSG7/NorthStar)
+- [NorthStar](https://github.com/LSG7/NorthStar)  
+
+## QnA  
+- [QnA](https://github.com/LSG7/UnrealEngine_AI_Bridge/blob/main/docs/QnA/QnA.md)
