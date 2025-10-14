@@ -3,15 +3,17 @@
 
 ### I recommend 'Gemini CLI'  
 -  It's free, it gives you a lot of usage, and it works on all OS.  
--  If you are subscribed to an AI service, please select the one that suits you below.  
+-  If you are subscribed to an AI service, please select the one that suits you below.
+-  Consider this: the paid model is smarter and works better.  
 
 
 ### Please select the AI ​​you use.  
 - Door to Isekai is free, with ads only. The paid options below reflect each company's policy. It's not ours.
-- The free version of chatGPT does not allow the use of "door to isekai." This is OpenAI's policy.
-- So I highly recommend gemini cli.
+- The free version of chatGPT does not allow the use of 'door to isekai'(In technical terms, 'local mcp server'). This is OpenAI's policy. The same goes for other companies, except google.  
+- So I highly recommend Gemini CLI(Thanks Google).  
 
-1. Google (gemini)
+### Click you want
+1. Google (gemini)  
    |ai|free?|OS|note|
    |---|---|---|---|
    |[Gemini Web Browser]()||||
@@ -20,7 +22,7 @@
    |ai|free?|OS|note|
    |---|---|---|---|  
    |[ChatGPT Web Browser]()|No, Team account only|||
-   [Codex(OpenAI CLI)]()|?|Not supported|||
+   [Codex(OpenAI CLI)]()||Not supported|||
 3. Anthropics (claude)  
    |ai|free?|OS|note|
    |---|---|---|---|  
