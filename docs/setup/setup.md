@@ -12,7 +12,8 @@
 - The free version of chatGPT does not allow the use of 'door to isekai'(In technical terms, 'local mcp server'). This is OpenAI's policy. The same goes for other companies, except google.  
 - So I highly recommend Gemini CLI(Thanks Google).  
 
-### Click you want
+### Click you want  
+- free means "free plan user can use 'Door to isekai'"
 1. Google (gemini)  
    |ai|free?|OS|note|
    |---|---|---|---|
