@@ -8,9 +8,7 @@
 
 
 ### Please select the AI ​​you use.  
-- Door to Isekai is free, with ads only. The paid options below reflect each company's policy. It's not ours.
-- The free version of chatGPT does not allow the use of 'door to isekai'(In technical terms, 'local mcp server'). This is OpenAI's policy. The same goes for other companies, except google.  
-- So I highly recommend Gemini CLI(Thanks Google).  
+- Im making server. local mcp server is not accepted by openAI and others.
 
 ### Click you want  
 - free means "free plan user can use 'Door to isekai'"
