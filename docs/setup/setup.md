@@ -1,14 +1,8 @@
 ## We need to tell AI how to use our plugin.
 
 
-### I recommend 'Gemini CLI'  
--  It's free, it gives you a lot of usage, and it works on all OS.  
--  If you are subscribed to an AI service, please select the one that suits you below.
--  Consider this: the paid model is smarter and works better.  
-
-
-### Please select the AI ​​you use.  
-- Im making server. local mcp server is not accepted by openAI and others.
+### Working  
+Im make a Server to use 'Door to isekai' on ChatGPT
 
 ### Click you want  
 - free means "free plan user can use 'Door to isekai'"
@@ -20,8 +14,8 @@
 2. OpenAI (gpt)
    |ai|free?|OS|note|
    |---|---|---|---|  
-   |[ChatGPT Web Browser]()|No, Team account only|||
-   [Codex(OpenAI CLI)]()||Not supported|||
+   |[ChatGPT Web Browser]()||||
+   [Codex(OpenAI CLI)]()|||||
 3. Anthropics (claude)  
    |ai|free?|OS|note|
    |---|---|---|---|  
