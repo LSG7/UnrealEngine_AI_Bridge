@@ -2,8 +2,10 @@
 # Door to isekai Project
 
 ***Notice: Just before launch***  
-I'm releasing it the Second week of November.
-Working on finishing now.  
+I'm releasing it the Second week of November.  
+While I was developing, my Google AdMob app was suspended.  
+They blocked my app for clicking on ads.   
+This delayed the launch by a month.
 
 ## What is this?
 - Problem:  
