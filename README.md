@@ -4,8 +4,8 @@
 ***Notice: Just before launch***  
 I'm releasing it the Second week of November.  
 While I was developing, my Google AdMob app was suspended.  
-They blocked my app for clicking on ads.   
-This delayed the launch by a month.
+My app was blocked because I clicked on an my ad.........   I did earn enough money to buy a can of Coca-Cola with this...   
+This delayed the launch by a month.  
 
 ## What is this?
 - Problem:  
