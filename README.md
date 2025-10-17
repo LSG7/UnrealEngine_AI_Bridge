@@ -2,7 +2,7 @@
 # Door to isekai Project
 
 ***Notice: Just before launch***  
-I'm releasing it the third week of October.  
+I'm releasing it the Second week of November.
 Working on finishing now.  
 
 ## What is this?
