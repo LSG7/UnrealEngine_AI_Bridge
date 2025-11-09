@@ -7,7 +7,7 @@ The app only serves advertising and activation functions.
 
 1. Please install the app.  
 - Android : https://play.google.com/store/apps/details?id=com.doortoisekai.app&pcampaignid=web_share
-- ios : releaseing
+- ios : https://apps.apple.com/us/app/door-to-isekai/id6751532802
 
 
 
