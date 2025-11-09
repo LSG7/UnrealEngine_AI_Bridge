@@ -18,7 +18,7 @@ The app only serves advertising and activation functions.
 link : I will upload after ios releasing.  
 2. Unzip to the following location: YourProjectRoot/Plugins/UnrealEngine_AI_Bridge (This is the standard installation method for Unreal Engine.)
 3. You can find the our plugin in Plugins (Unreal Editor Menubar : Edit -> Plugins) [example image](https://github.com/LSG7/UnrealEngine_AI_Bridge/blob/main/docs/images/Plugins_0.png) 
-4. You can open the our plugin panel at 'Unreal Editor Menubar Tools->Door to isekai' [example image](https://github.com/LSG7/UnrealEngine_AI_Bridge/blob/main/docs/images/Plugins_1.jpg)
+4. You can open the our plugin panel at 'Unreal Editor Menubar Tools->Door to isekai' [example image](https://github.com/LSG7/UnrealEngine_AI_Bridge/blob/main/docs/images/Plugins_1.png)
 
 ### [Goto Next Step : Setup](https://github.com/LSG7/UnrealEngine_AI_Bridge/blob/main/docs/setup/setup.md)
 ### [Goto Main](https://github.com/LSG7/UnrealEngine_AI_Bridge/tree/main)
