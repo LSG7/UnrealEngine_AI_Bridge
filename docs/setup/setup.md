@@ -5,7 +5,8 @@
 Im make a Server to use 'Door to isekai' on ChatGPT
 
 ### Click you want  
-- free means "free plan user can use 'Door to isekai'"
+- 'Door to isekai' is run solely on advertising.
+- 'free' below means "Free users for each company(openai,claude etc) can use 'Door to isekai' for free.
 1. Google (gemini)  
    |ai|free?|OS|note|
    |---|---|---|---|
@@ -19,9 +20,9 @@ Im make a Server to use 'Door to isekai' on ChatGPT
 3. Anthropics (claude)  
    |ai|free?|OS|note|
    |---|---|---|---|  
-   |[Claode.ai Web Browser]()|||
+   |[Claode.ai Web Browser]()|No||
    |[Claude Code CLI]()|No|||
-   |[Claude Desktop]()||||
+   |[Claude Desktop]()|No|||
 
    - 
 5. others
