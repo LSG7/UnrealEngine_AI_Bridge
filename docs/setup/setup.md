@@ -15,14 +15,14 @@ Im make a Server to use 'Door to isekai' on ChatGPT
 2. OpenAI (gpt)
    |ai|free?|OS|note|
    |---|---|---|---|  
-   |[ChatGPT Web Browser]()||||
+   |[ChatGPT Web Browser]()|only for paid user|||
    [Codex(OpenAI CLI)]()|||||
 3. Anthropics (claude)  
    |ai|free?|OS|note|
    |---|---|---|---|  
-   |[Claode.ai Web Browser]()|No||
-   |[Claude Code CLI]()|No|||
-   |[Claude Desktop]()|No|||
+   |[Claode.ai Web Browser]()|No,only for paid user||
+   |[Claude Code CLI]()|only for paid user|||
+   |[Claude Desktop]()|only for paid user|||
 
    - 
 5. others
