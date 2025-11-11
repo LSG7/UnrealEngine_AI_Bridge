@@ -2,7 +2,8 @@
 # Door to isekai Project
 
 ***Notice: Just before launch***  
-I'm releasing it the Second week of November.  
+I'm releasing it the fourth week of November.  I'm Strengthening security
+
 
 ## What is this?
 - Problem:  
