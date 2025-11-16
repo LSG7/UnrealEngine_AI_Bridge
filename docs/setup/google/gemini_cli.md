@@ -5,7 +5,9 @@ Guide : https://github.com/google-gemini/gemini-cli
 
 ### 2. Set mcp server for gemini  
 make .gemini/settings.json in your unreal project root  .  
-Json content is below. Port numbers may vary. Check the isekai scroll.  
+Json content is below.   
+- Port numbers may vary. Check the isekai scroll.
+- Name the server whatever you want.  In the example, it is called UE_AI.  
 ```
 {
   "mcpServers": {
@@ -22,4 +24,7 @@ Json content is below. Port numbers may vary. Check the isekai scroll.
 ```
 $gemini
 ```
+Check if the mcp server is registered.  
+Enter '/mcp' in the gemini console.  
+
 ![](https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/blob/main/docs/images/gemini_mcp_example.png)
