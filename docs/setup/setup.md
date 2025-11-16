@@ -8,13 +8,13 @@
 1. Google (gemini)  
    |ai|free?|OS|note|
    |---|---|---|---|
-   |[Gemini Web Browser]()|Not supported|||
+   |Gemini Web Browser|Not supported|||
    |[Gemini CLI]() recommended|free|||
 2. OpenAI (gpt)
    |ai|free?|OS|note|
    |---|---|---|---|  
    |[ChatGPT Web Browser]()|only for paid user|||
-   [Codex(OpenAI CLI)]()|Not supported||||
+   Codex(OpenAI CLI)|Not supported||||
 3. Anthropics (claude)  
    |ai|free?|OS|note|
    |---|---|---|---|  
