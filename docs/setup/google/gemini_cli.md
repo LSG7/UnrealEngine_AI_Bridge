@@ -22,4 +22,4 @@ Json content is below. Port numbers may vary. Check the isekai scroll.
 ```
 $gemini
 ```
-![](http://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/blob/main/docs/images/gemini_mcp_example.png)
+![](https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/blob/main/docs/images/gemini_mcp_example.png)
