@@ -1,7 +1,7 @@
 ## 1. We need to tell AI how to use our plugin.
 
 
-### 2. Click you want  
+### 2. Choose the AI ​​you want  
 - 'Door to isekai' is run solely on advertising.
 - 'free' below means "Free users for each company(openai,claude etc) can use 'Door to isekai' for free. It is each company's policy.
   
