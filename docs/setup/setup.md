@@ -8,7 +8,7 @@
 1. Google (gemini)  
    |ai|free?|OS|note|
    |---|---|---|---|
-   |[Gemini Web Browser]()||||
+   |[Gemini Web Browser]()|Not supported|||
    |[Gemini CLI]() recommended|free|||
 2. OpenAI (gpt)
    |ai|free?|OS|note|
