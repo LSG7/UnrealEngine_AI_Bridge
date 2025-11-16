@@ -9,7 +9,7 @@
    |ai|free?|OS|note|
    |---|---|---|---|
    |Gemini Web Browser|Not supported|||
-   |[Gemini CLI]() recommended|free|||
+   |[Gemini CLI](google/gemini_cli.md) recommended|free|||
 2. OpenAI (gpt)
    |ai|free?|OS|note|
    |---|---|---|---|  
