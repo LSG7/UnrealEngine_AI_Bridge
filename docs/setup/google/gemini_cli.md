@@ -29,5 +29,5 @@ Enter '/mcp' in the gemini console.
 
 ![](https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/blob/main/docs/images/gemini_mcp_example.png)
 
-### [Goto Next Step : How to use](https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/blob/main/docs/howtouse/google/gemini_cli.md)  
+### [Goto Next Step : How to use](https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/blob/main/docs/howtouse/howtouse.md)  
 ### [Goto Main](https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai)
